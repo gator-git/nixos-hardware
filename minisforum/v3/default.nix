@@ -2,7 +2,6 @@
 {
   imports = [
     ./sensors.nix
-    ./audio.nix
     ./power.nix
 
     ../../common/gpu/amd/default.nix
